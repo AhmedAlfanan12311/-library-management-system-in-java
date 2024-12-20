@@ -1,0 +1,3 @@
+Observer
+Logger
+LibraryNotifier
