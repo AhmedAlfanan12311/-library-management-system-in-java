@@ -1,4 +1,0 @@
-Book
-BookFactory
-ManagementBook
-SoftwareEngineeringBook

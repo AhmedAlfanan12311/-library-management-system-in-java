@@ -1,4 +1,0 @@
-User
-RegularUser
-UserFactory
-AdminUser

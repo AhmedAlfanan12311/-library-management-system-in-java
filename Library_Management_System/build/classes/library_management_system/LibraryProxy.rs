@@ -1,3 +1,0 @@
-LibraryProxy
-RealLibrary
-Library
